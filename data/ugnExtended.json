@@ -1,0 +1,2455 @@
+[
+    {
+        "sign": "A",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "UM",
+                "relation": [
+                    "phonetic",
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "AGAR2",
+        "alternativeSigns": "LAGABxSIG7",
+        "extendedInterpretations": [
+            {
+                "value": "LU2",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "AN",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "KUR",
+                "relation": [
+                    "derived"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "ASZ",
+        "alternativeSigns": "1(N01)",
+        "extendedInterpretations": [
+            {
+                "value": "ISZ",
+                "relation": [
+                    "phonetic",
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "ME.GAL",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "AZ",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "UG",
+                "relation": [
+                    "graphic",
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "BU",
+        "alternativeSigns": "GID2",
+        "extendedInterpretations": [
+            {
+                "value": "NIN",
+                "relation": [
+                    "uncertain",
+                    "derived",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "NUN",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "DAR",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "KUL",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "DI",
+        "alternativeSigns": "SA2 SILIM",
+        "extendedInterpretations": [
+            {
+                "value": "GA2",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "DU",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GIM",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "DU6",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "NA",
+                "relation": [
+                    "graphic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "NU",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "NAM2",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SAG",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "TAK4",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "TIR",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "DUB2",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "MUSZ3",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "DUR",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "ME.NUN",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "EN",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "NUN",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "EN.IB",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GAR5",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "U4",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "ESZ",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "SANGA",
+                "relation": [
+                    "semantic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "EZEN",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "SZESZ",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "AK",
+                "relation": [
+                    "uncertain",
+                    "derived"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "EZENxAN",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GA",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GARA2",
+                "relation": [
+                    "uncertain",
+                    "semantic",
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GAB2@s",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GAB2",
+                "relation": [
+                    "graphic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GADA",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "LA2",
+                "relation": [
+                    "semantic",
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GAG",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GI",
+                "relation": [
+                    "phonetic",
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GI4",
+                "relation": [
+                    "derived"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GAL",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "A2",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "DA",
+                "relation": [
+                    "derived"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "EN",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GAR5",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "KISZ",
+                "relation": [
+                    "semantic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "PI.PI",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "U4",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GAR3",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "ZI",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SUHUR",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GAR5",
+        "alternativeSigns": "GUG2",
+        "extendedInterpretations": [
+            {
+                "value": "GAL",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GAL2",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GAR",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "EN.IB",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "KU",
+                "relation": [
+                    "phonetic",
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SZE3",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "TAG",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GARA2",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GA",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GI",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "KU3",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GIM",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "DU",
+                "relation": [
+                    "phonetic",
+                    "derived",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GA2",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "DI",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GIR3",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "PA.HUB2",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "RU",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "GISZ",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "NU11",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "HI",
+        "alternativeSigns": "DU10",
+        "extendedInterpretations": [
+            {
+                "value": "GAN",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "HUR.HUR",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "LAK383",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "IGI",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GI",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "IM",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "KI",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "ISZ",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "ZU",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "ASZ",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "KAD4",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "DI",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GI&GI",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "KAS",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "BI",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "KI",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "SAG",
+                "relation": [
+                    "graphic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "KISZ",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "EN",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GAL",
+                "relation": [
+                    "semantic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "KU",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "DU6.DU",
+                "relation": [
+                    "derived"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GAR5",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "ME",
+                "relation": [
+                    "phonetic",
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "RA",
+                "relation": [
+                    "derived"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "RU",
+                "relation": [
+                    "phonetic",
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SI",
+                "relation": [
+                    "graphic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "UL",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "UMBIN",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "UR",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "KU3",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GI",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "KU7",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "IGI",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SANGA",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "KUL",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "DAR",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "KUR",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "AN",
+                "relation": [
+                    "derived"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "LA",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "URUxMIN",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "NUN",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "LA2",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "LAGAB",
+                "relation": [
+                    "graphic",
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "LAGAB",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "BAD",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "DU",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "U4.DU",
+                "relation": [
+                    "derived"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GIM",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "LA2",
+                "relation": [
+                    "graphic",
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "MEN",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "HUB2.DU",
+                "relation": [
+                    "semantic",
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "UR4",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "LAK50",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "U4",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "LAK51",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GUR8",
+                "relation": [
+                    "graphic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "LAK175",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "KA",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SANGA",
+                "relation": [
+                    "phonetic",
+                    "semantic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "LAK339",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "SZE3",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "LAK369",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "MASZ2",
+                "relation": [
+                    "graphic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "MASZ",
+                "relation": [
+                    "graphic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "LAK383",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "HUR.HUR",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "LU2",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "AGAR2",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "MA",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "SUHUR",
+                "relation": [
+                    "semantic",
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "MAR",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "SZA3",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SUG",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "MASZ",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "MASZ2",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "LAK369",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "ME",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "AB2",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "BALAG",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "KU",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "PA",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SZU",
+                "relation": [
+                    "uncertain",
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "ME.GAL",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "ASZ",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "ME.NUN",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "DUR",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "NA",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "SZE3",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "NAGAR",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "NIR",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "NAM2",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "EN",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "DUMU",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "NAM",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SAG",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SZITA",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "NESAG",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "AB",
+                "relation": [
+                    "graphic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "NIN",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "BU",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "NU",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "NUN",
+                "relation": [
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "NU11",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GISZ",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "NU",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "NUN",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "BU",
+                "relation": [
+                    "phonetic",
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "E2",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GAL",
+                "relation": [
+                    "phonetic",
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "KID",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "MU",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "LA",
+                "relation": [
+                    "phonetic",
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "NIN",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "NU",
+                "relation": [
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SZA",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "PA",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "LU",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "LU2",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "NIM",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "PA.HUB2",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GIR3",
+                "relation": [
+                    "not an allogram?",
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "PA.RU",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GI4",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "PIRIG",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "USZUM",
+                "relation": [
+                    "not an allogram?",
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "RU",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "E2",
+                "relation": [
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "DU6.DU",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "RA",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GIR3",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SU7",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "TUKU",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "UNUG",
+                "relation": [
+                    "phonetic",
+                    "semantic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SA6",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "MUSZ3",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SIG4",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "KI",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "UNUG",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SIG7",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GI",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "KU3",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SU",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "MUSZ",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "NI",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SU7",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "RU",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SUG",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "SZA3",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "MAR",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SUHUR",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "KU6",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GAR3",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "MA",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SZUM2@n",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "SZUM2",
+                "relation": [
+                    "graphic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SUR",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "AL",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SZA",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "NA",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SAR",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "NUN",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SZE3",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GAR",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GAR5",
+                "relation": [
+                    "phonetic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "HUB2",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "NA",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SZESZ",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "AK",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "EZEN",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SANGA",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "KA",
+                "relation": [
+                    "phonetic",
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "ESZ",
+                "relation": [
+                    "semantic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "KU7",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "LAK175",
+                "relation": [
+                    "phonetic",
+                    "semantic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "SZUBUR",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "LAK30",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "TA@g",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "TA",
+                "relation": [
+                    "graphic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SZITA",
+                "relation": [
+                    "graphic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "TAB",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "TAG",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "TAK4",
+        "alternativeSigns": "TAKA4",
+        "extendedInterpretations": [
+            {
+                "value": "DU6",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "TIN",
+        "alternativeSigns": "DIN",
+        "extendedInterpretations": [
+            {
+                "value": "GESZTIN",
+                "relation": [
+                    "phonetic",
+                    "graphic",
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "TIR",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "SAG",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "DU6",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "TU",
+        "alternativeSigns": "DU2",
+        "extendedInterpretations": [
+            {
+                "value": "AMA",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "TUG2",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "KUL",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "TUKU",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "GA",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GA'AR",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GARA2",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GA2",
+                "relation": [
+                    "uncertain"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "RU",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SZE3",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "TUM3",
+        "alternativeSigns": "NIMxKAR2",
+        "extendedInterpretations": [
+            {
+                "value": "LA2",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "UB",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "ME",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "U4",
+        "alternativeSigns": "UD",
+        "extendedInterpretations": [
+            {
+                "value": "AM",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "AN",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "KUR",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "EN.IB",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "GAL",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "LAK50",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "UTUL",
+        "alternativeSigns": "AB2.KU",
+        "extendedInterpretations": [
+            {
+                "value": "ZAG",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "UG",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "AZ",
+                "relation": [
+                    "graphic",
+                    "semantic",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "UM",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "A",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "UNUG",
+        "alternativeSigns": "UNU",
+        "extendedInterpretations": [
+            {
+                "value": "KI",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "RU",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SIG4",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "UR4",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "RIG9",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "URU",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "E2",
+                "relation": [
+                    "semantic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "URUDU",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "KU",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            },
+            {
+                "value": "SI",
+                "relation": [
+                    "derived"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "USZUM",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "PIRIG",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "ZAG",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "AB2.KU",
+                "relation": [
+                    "uncertain",
+                    "not an allogram?"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "ZADIM",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "ZAG",
+                "relation": [
+                    "phonetic"
+                ],
+                "comment": "",
+                "reference": "Zand, 2009"
+            }
+        ]
+    }
+]

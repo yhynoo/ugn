@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href ='style.css'>
+    <title>ugn</title>
+</head>
+<body class='ugnBody'>
+    <div class = 'ugnContainer'>
+        <div class='ugnDiv'>
+            <strong>ugn</strong>
+            <p>write a sign name (in all caps) below to see whether it is a known allogram of other signs.</p>
+        </div>
+    
+        <div class="ugnDiv">
+            <form action="/" method="POST">
+                <input type='text' id='query' name='query' placeholder='what are you looking for?'>
+            </form>
+        </div>
+    
+        <% if (typeof data !== 'undefined') { %>
+            <br>
+            <br>
+            <div class='ugnDiv' id="result">
+                <%- data %>
+            </div>
+        <% } %>
+    
+        <div class="ugnDiv">
+            <center><a href = 'https://github.com/yhynoo/ugn'>GitHub</a></center>
+        </div>
+    </div>
+</body>
+</html>
