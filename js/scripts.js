@@ -5,7 +5,7 @@ export function processQuery(query) {
     let matchedSign = null
 
     allSigns.forEach(sign => {
-        if (sign.sign === query || sign.alternativeSigns.split(" ").includes(query)) {
+        if (sign.sign === query.toUpperCase() || sign.alternativeSigns.split(" ").includes(query.toUpperCase())) {
             matchedSign = sign
         }
     })
@@ -30,7 +30,7 @@ export function drawProcessedQuery(matchedSign) {
                 ${interpretation.relation.join(', ')} (${interpretation.reference})
             </p>`
 
-        if (interpretation.comment) { html += `<p><strong>comments:</strong>${interpretation.comment}</p>`}
+        if (interpretation.comment) { html += `<p><strong>comments:<br></strong>${interpretation.comment}</p>`}
         html += '</div>'
     })
     html += '</div>'

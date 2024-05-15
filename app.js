@@ -23,10 +23,10 @@ app.get("/", (req, res) => {
 });
 
 app.post('/', (req, res) => {
-    const query = req.body.query
-    const processedData = drawProcessedQuery(processQuery(query))
+  const query = req.body.query
+  const processedData = drawProcessedQuery(processQuery(query))
 
-    res.render("index", { data: processedData })
+  res.render("index", { data: processedData })
 })
 
 app.listen(8000, () => {

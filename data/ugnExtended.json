@@ -1612,6 +1612,21 @@
         ]
     },
     {
+        "sign": "PESZ",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "PESZ3",
+                "relation": [
+                    "phonetic",
+                    "uncertain"
+                ],
+                "comment": "In what Zand calls 'section 1.6' of CUT 22. It appears alongside DIN ('grapes') in a fragment regarding abundant gifts of Enlil, and a later a similar phrase appears in 3.1, with dates, figs, grapes and pomegranates (?).",
+                "reference": "n/a"
+            }
+        ]
+    },
+    {
         "sign": "PIRIG",
         "alternativeSigns": "",
         "extendedInterpretations": [
@@ -2387,8 +2402,8 @@
         ]
     },
     {
-        "sign": "URUDU",
-        "alternativeSigns": "",
+        "sign": "URUDA",
+        "alternativeSigns": "URUDU",
         "extendedInterpretations": [
             {
                 "value": "KU",
@@ -2405,6 +2420,21 @@
                 ],
                 "comment": "",
                 "reference": "Zand, 2009"
+            }
+        ]
+    },
+    {
+        "sign": "URUDAxSZAR2",
+        "alternativeSigns": "",
+        "extendedInterpretations": [
+            {
+                "value": "BANSZUR",
+                "relation": [
+                    "phonetic?",
+                    "uncertain"
+                ],
+                "comment": "In CUT 6:58-59, Enki eats the food of URUDAxSZAR2 and drinks the water from the well.",
+                "reference": "n/a"
             }
         ]
     },
